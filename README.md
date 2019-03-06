@@ -15,3 +15,5 @@ Links to my Databricks notebooks on learning spark and exercises.
     2. Impact of weather on trips and bike share usage.
     3. Routes for potential new bikelanes.
     4. Predicts the duration of a trip.
+
+- A simple ALS-based game recommender for Steam users: [notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/36326551756010/1747751167921534/2315419060115508/latest.html), [dataset](https://www.kaggle.com/tamber/steam-video-games)
